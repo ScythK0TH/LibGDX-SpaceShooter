@@ -1,0 +1,53 @@
+{
+com.badlogic.gdx.graphics.Color: {
+	black: {
+		r: 0
+		g: 0
+		b: 0
+		a: 1
+	}
+	cyan: {
+		r: 0
+		g: 1
+		b: 0.99166656
+		a: 1
+	}
+	dark-cyan: {
+		r: 0
+		g: 0.39373153
+		b: 0.4333333
+		a: 1
+	}
+	white: {
+		r: 1
+		g: 1
+		b: 1
+		a: 1
+	}
+}
+com.badlogic.gdx.scenes.scene2d.ui.Button$ButtonStyle: {
+	default: {
+		up: Start_BTN
+		down: Start_BTN
+	}
+	small: {
+		up: Start_BTN
+		down: Start_BTN
+	}
+}
+
+com.badlogic.gdx.scenes.scene2d.ui.ImageButton$ImageButtonStyle: {
+	default: {
+		up: Start_BTN
+		down: Start_BTN
+	}
+	start: {
+		up: Start_BTN
+		down: Start_BTN
+	}
+	exit: {
+		up: Exit_BTN
+		down: Exit_BTN
+	}
+}
+}

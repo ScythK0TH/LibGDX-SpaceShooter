@@ -1,0 +1,11 @@
+{
+  "jrePath": "jre",
+  "classPath": [
+    "desktop-1.0.jar"
+  ],
+  "mainClass": "game.speace.shooter.DesktopLauncher",
+  "useZgcIfSupportedOs": false,
+  "vmArgs": [
+    "-Xmx1G"
+  ]
+}

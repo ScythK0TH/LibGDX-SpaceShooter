@@ -1,0 +1,10 @@
+{
+  "platform": "windows64",
+  "jdk": "C:\\Users\\oosga\\eclipse-workspace\\zulu8.90.0.19-ca-jdk8.0.472-win_x64.zip",
+  "executable": "SKS-SpaceShooterOOP",
+  "classpath": ["desktop/build/libs/desktop-1.0.jar"],
+  "mainclass": "game.speace.shooter.DesktopLauncher",
+  "vmargs": ["-Xmx1G"],
+  "minimizejre": "soft",
+  "output": "packr-out"
+}
